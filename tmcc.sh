@@ -5,7 +5,7 @@ echo "Tool for fast operate with permissions.
 wrapper for touch+mkdir+chown+chmod
 replace 
   touch name && chown user:group name && chmod 777 name
-tp
+to
   tmcc - user:user 777 name
 Or just copy user:group and permissions from parent folder or another file or directory.
 
