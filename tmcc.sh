@@ -1,7 +1,13 @@
 #! /usr/bin/bash
 
 if [[ $# -eq 0 ]] || [[ $1 == "--help" ]]; then
-echo "Tool for fast operate with permissions
+echo "Tool for fast operate with permissions.
+wrapper for touch+mkdir+chown+chmod
+replace 
+  touch name && chown user:group name && chmod 777 name
+tp
+  tmcc - user:user 777 name
+Or just copy user:group and permissions from parent folder or another file or directory.
 
 tmcc filename                   Create or update file with permissions of parent folder
 tmcc filename path              Create or update file with permissions of another file or folder
