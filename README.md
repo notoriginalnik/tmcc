@@ -36,11 +36,11 @@ Change first line `#! /usr/bin/bash` to your needs `which bash`.
 
 ## links for understand bash
 
-https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
-https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script
-https://linuxhandbook.com/bash-variables/
-https://stackoverflow.com/questions/12262696/using-unset-vs-setting-a-variable-to-empty
-https://unix.stackexchange.com/questions/7730/find-the-owner-of-a-directory-or-file-but-only-return-that-and-nothing-else
-https://stackoverflow.com/questions/17542892/how-to-get-the-last-character-of-a-string-in-a-shell
-https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html
-https://techrocks.ru/2019/01/21/bash-if-statements-tips/
+https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/  
+https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script  
+https://linuxhandbook.com/bash-variables/  
+https://stackoverflow.com/questions/12262696/using-unset-vs-setting-a-variable-to-empty  
+https://unix.stackexchange.com/questions/7730/find-the-owner-of-a-directory-or-file-but-only-return-that-and-nothing-else  
+https://stackoverflow.com/questions/17542892/how-to-get-the-last-character-of-a-string-in-a-shell  
+https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html  
+https://techrocks.ru/2019/01/21/bash-if-statements-tips/  
